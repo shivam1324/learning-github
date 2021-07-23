@@ -88,21 +88,3 @@ input[type=text]{
     font-size: .9em;
     margin-top: .3em ;
 }
-
-input[type=button]{
-    
-    background-color: #F89104 ;
-    border: none;
-    width:100%;
-    color: white;
-    font-weight: bold;
-    padding: 1em 0;
-    border-radius: .5em;
-    font-size: 1.3em;
-    cursor:pointer;
-}
-input[type=button]:hover{
-    
-    background-color: #9c640a ;
-    
-}
